@@ -28,4 +28,8 @@
   - `git remote add origin {git_address}`
 
 - 원격 저장소에 파일 올리기
+
   - `git push origin {branch_name}`
+
+- 병합
+  `git merge {branch_name}`
