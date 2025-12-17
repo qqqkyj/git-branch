@@ -37,5 +37,3 @@
 
   - `git merge {target_branch}`
     - 현재 내가 있는 브랜치에 타겟 브랜치를 가져와서 병합
-
-- test
