@@ -19,9 +19,11 @@
 
   - `git branch -d {branch_name}`
 
-- 브랜치 로그 확인 (option : --graph)
+- 커밋 히스토리 확인 (option : --graph)
 
-  - `git log --oneline`
+  - `git log --oneline --graph`
+  - `--oneline` : 간소화 출력
+  - `--graph` : 그래프 형태로 출력
 
 - 원격 저장소 추가
 
